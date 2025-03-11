@@ -6,6 +6,8 @@ Para comprender mejor el funcionamiento operativo de la cafetería "CityBlend", 
 Transformar y visualizar los datos de manera que permita a los propietarios de la cafetería analizar patrones y detectar oportunidades de mejora para el negocio a partir de los datos recopilados.   
  
 ## Análisis del caso
+![Análisisde CytiBlend.](https://raw.githubusercontent.com/franklueza/ProyectoExcel/main/Caso-practico.png
+)
 - Se observa que los ingresos no son constantes mes a mes, sino que van incrementandose las **ventas** a partir del mes de marzo hasta junio de $32888.68 - $166485.68 respectivamente, esto puede deberse a la temporalidad y promosciones que CytiBlend haya tenido.
 - La categoría Coffee tiene la mayor cantidad de transacciones con 58416, seguido de Te con 45449 y Bakery con 22796.
 - Las ventas del semestre por ubicación en las tres sucursales muestran que **Hell's Kitchen** tiene la mayor cantidad de ventas con $236,511.17 y 50735 transacciones, seguido por **Astoria** con $232,243.91 y 50599 transacciones y en tercer lugar **Lower Manhattan** con $230,057.25 y 47782 transacciones.
